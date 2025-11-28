@@ -2,7 +2,7 @@
 
 **`Técnico Em Eletrônica e futuro Técnico em Informatica`**
 
-Me chamo Jaime Guilherme Caceda, tenho 34 anos e sou natural do Rio Grande do Sul. Conclui o curso técnico em eletrônica na escola Senai Nilo Peçanha, em 2008. Atualmente estou cursando o curso técnico em informatica na Escola Técnica São Francisco - Seg Cursos Técnicos. Sou apaixonado pela tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Jaime Caceda](https://www.youtube.com/@jaimeguilherme6650)", onde ensino a criar projetos web, e também compartilho no meu perfil do Linkedin serviços que já realizei durante minha carreira profissional, neste perfil possuo mais de 4 mil seguidores "[Jaime Caceda](www.linkedin.com/in/jaimecaceda)".
+Me chamo Jaime Guilherme Caceda, tenho 34 anos e sou natural do Rio Grande do Sul. Conclui o curso técnico em eletrônica na escola Senai Nilo Peçanha, em 2008. Atualmente estou cursando o curso técnico em informatica na Escola Técnica São Francisco - Seg Cursos Técnicos. Sou apaixonado pela tecnologia e compartilho no meu perfil do Linkedin serviços que já realizei durante minha carreira profissional, neste perfil possuo mais de 4 mil seguidores "[Jaime Caceda](www.linkedin.com/in/jaimecaceda)".
 
 ---
 
@@ -125,15 +125,3 @@ Me chamo Jaime Guilherme Caceda, tenho 34 anos e sou natural do Rio Grande do Su
 <br/>
 
 ---
-
-### 📈 Estatísticas
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeguilherme&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
